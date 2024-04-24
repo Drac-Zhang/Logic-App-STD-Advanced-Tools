@@ -1,3 +1,8 @@
+##!!!IMPORTENT!!!
+This project has been moved to https://github.com/microsoft/Logic-App-STD-Advanced-Tools and all the update will be in new link
+
+
+
 ## Introduction
 This tool integrated several useful features for Logic App Standard which not available in Logic App portal yet.<br/>
 Please use command "**LogicAppAdvancedTool -?/LogicAppAdvancedTool [COMMAND] -?**" for more information of the commands.
