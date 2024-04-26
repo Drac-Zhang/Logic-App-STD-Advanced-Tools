@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "LogicAppAdvancedTool": {
-      "commandName": "Project",
-      "commandLineArgs": "validatestorageconnectivity"
-    }
-  }
-}
